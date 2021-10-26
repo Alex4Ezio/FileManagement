@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="“飞驴”旅游自助网站" 项目标识="定期" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识></文件标识>
+			<当前版本>v2.0</当前版本>
+			<作者>
+				<姓名>王纬业</姓名>
+				<学号>2018011168</学号>
+				<团队>无衣</团队>
+			</作者>
+			<完成日期>2021-10-13</完成日期>
+			<版本更新信息><div xmlns="http://www.w3.org/1999/xhtml">2021-9-29-v1.0</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2021-10-13-v2.0</div></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题>“飞驴”旅游自助网站定期评审报告</标题>
+	<组织名称>无衣</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>王纬业</主持人>
+	<参加人><div xmlns="http://www.w3.org/1999/xhtml">参加人员：王纬业，胡志奎，李奇峰，王夏，刘洋，陈明瀚，常远，李世龙，吴雨森</div>
+<div xmlns="http://www.w3.org/1999/xhtml">记录人员：王夏</div></参加人>
+	<地点>教二2-407</地点>
+	<日期>2021-10-13</日期>
+	<提交内容><div xmlns="http://www.w3.org/1999/xhtml">1、需求分析报告</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、测试计划草案</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、需求分析评审报告</div></提交内容>
+	<评审项与结论>
+		<要素>需求分析评审确认</要素>
+		<评审结果><div xmlns="http://www.w3.org/1999/xhtml">1、需求分析较完整，但也存在缺陷没有很好的解决用户的核心问题，需要对用户需求做进一步深挖，切实了解用户需求</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、需求分析报告中存在不少错误，需要对其进行修改与优化</div></评审结果>
+		<问题和对策><div xmlns="http://www.w3.org/1999/xhtml">1、软件开发方面的基本架构尚未完全确定，开发进度较为缓慢，需要开发组成员之间加强沟通，决定软件架构</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、用户需求方面不太明确，对用户真正所需的的功能还不是非常明确，于用户方面的沟通不是很足，需要在接下来的工作中加强与用户的沟通</div></问题和对策>
+	</评审项与结论>
+	<总结><div xmlns="http://www.w3.org/1999/xhtml">软件开发过程中的问题要快速解决，并对于用户需求可进一步的细化，同时之前的分析文档需要进行修改并再次审核，使得后续工作可继续顺利进行。</div></总结>
+	<签字>王纬业</签字>
+	<附件>
+		<其他材料>参看《软件需求构思及描述v2.0》《软件需求规格说明书v2.0》《用户需求说明书V3.0》</其他材料>
+		<评审记录>王夏负责会议记录</评审记录>
+	</附件>
+</评审报告>
